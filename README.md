@@ -1,0 +1,1 @@
+This example demonstrates a common error in PHP related to comparing values to NULL.  Loose typing can cause unexpected results if not handled carefully. The solution provides explicit NULL checks to improve code robustness and predictability.
